@@ -1,0 +1,15 @@
+/home/gogphojoh/Tareas/Arreglos/bin/Debug/net7.0/Arreglos
+/home/gogphojoh/Tareas/Arreglos/bin/Debug/net7.0/Arreglos.deps.json
+/home/gogphojoh/Tareas/Arreglos/bin/Debug/net7.0/Arreglos.runtimeconfig.json
+/home/gogphojoh/Tareas/Arreglos/bin/Debug/net7.0/Arreglos.dll
+/home/gogphojoh/Tareas/Arreglos/bin/Debug/net7.0/Arreglos.pdb
+/home/gogphojoh/Tareas/Arreglos/obj/Debug/net7.0/Arreglos.csproj.AssemblyReference.cache
+/home/gogphojoh/Tareas/Arreglos/obj/Debug/net7.0/Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+/home/gogphojoh/Tareas/Arreglos/obj/Debug/net7.0/Arreglos.AssemblyInfoInputs.cache
+/home/gogphojoh/Tareas/Arreglos/obj/Debug/net7.0/Arreglos.AssemblyInfo.cs
+/home/gogphojoh/Tareas/Arreglos/obj/Debug/net7.0/Arreglos.csproj.CoreCompileInputs.cache
+/home/gogphojoh/Tareas/Arreglos/obj/Debug/net7.0/Arreglos.dll
+/home/gogphojoh/Tareas/Arreglos/obj/Debug/net7.0/refint/Arreglos.dll
+/home/gogphojoh/Tareas/Arreglos/obj/Debug/net7.0/Arreglos.pdb
+/home/gogphojoh/Tareas/Arreglos/obj/Debug/net7.0/Arreglos.genruntimeconfig.cache
+/home/gogphojoh/Tareas/Arreglos/obj/Debug/net7.0/ref/Arreglos.dll
